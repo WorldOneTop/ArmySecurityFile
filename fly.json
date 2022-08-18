@@ -1,4 +1,4 @@
-[
+{"data":[
 {"rowno":"1","enatvnm":"공군사관학교 제70기 졸업 및 임관식","dates":"22. 3. 2.(수)","plc":"청주","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
 ,{"rowno":"2","enatvnm":"제7회 서해수호의 날","dates":"22. 3. 25.(금)","plc":"대전","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
 ,{"rowno":"3","enatvnm":"공군 제242기 부사관후보생 임관식","dates":"22. 5. 4.(수)","plc":"진주","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
@@ -19,4 +19,4 @@
 ,{"rowno":"18","enatvnm":"턴 투워드 부산","dates":"22. 11. 11.(금)","plc":"부산","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
 ,{"rowno":"19","enatvnm":"공군 제149기 학사사관후보생 임관식","dates":"22. 12. 1.(목)","plc":"진주","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
 ,{"rowno":"20","enatvnm":"공군 제244기 부사관후보생 임관식","dates":"22. 12. 30.(금)","plc":"진주","glry_link_addr":"https://rokaf.airforce.mil.kr/blackeagles/index.do"}
-]
+]}
